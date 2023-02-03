@@ -7,3 +7,9 @@ form {
   width: 50%;
   margin: auto;
 }
+.btn-container {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
